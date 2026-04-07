@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.0](https://github.com/a2aproject/a2a-go/compare/v2.1.0...v2.2.0) (2026-04-07)
+
+
+### Features
+
+* cli ([#307](https://github.com/a2aproject/a2a-go/issues/307)) ([e04fc68](https://github.com/a2aproject/a2a-go/commit/e04fc68edbdb9fcf8fc963307b631dc3fcd7363d))
+
 ## [2.1.0](https://github.com/a2aproject/a2a-go/compare/v2.0.1...v2.1.0) (2026-04-01)
 
 
